@@ -1,6 +1,10 @@
-# Getting Started with Create React App
+# Namify
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Get unlimited number of catchy names for your next venture or start-up!
+
+## Authors
+
+[Reza Rahman](https://github.com/rahmanreza646)
 
 ## Available Scripts
 
