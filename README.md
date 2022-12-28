@@ -3,7 +3,7 @@
 Get unlimited number of catchy names for your next venture or start-up!
 
 ## Author
-[Reza Rahman](https://github.com/rahmanreza646)
+[Md. Ali Rahman](https://github.com/rahmanreza646)
 
 ## Available Scripts
 
