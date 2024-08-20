@@ -1,4 +1,4 @@
-import React, { Component } from "react";
+import React from "react";
 const NameChip: React.FC<{ name: string }> = ({ name }) => {
   const nameCheapURL = "https://brainstation-23.com/?1";
   return (
