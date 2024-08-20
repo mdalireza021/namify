@@ -1,0 +1,47 @@
+.chip-container {
+  padding: 10px 20px;
+  margin: 5px;
+  border-radius: 8px;
+  background-color: #7380ec;
+  color: #f6f6f9;
+}
+
+.chip-link {
+  text-decoration: none;
+}
+
+.chip-text {
+  text-align: center;
+  font-family: "Times New Roman", Times, serif;
+  font-weight: 100;
+  color: white;
+  font-size: larger;
+}
+
+.chip-container:hover {
+  background-color: #5a69f1;
+  cursor: pointer;
+}
+
+.search-input {
+  padding: 10px 30px;
+  font-size: 25px;
+  background-color: #ccddf7;
+  border-radius: 8px;
+  border-style: none;
+  outline-color: transparent;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  caret-color: rgba(39, 9, 9, 0.087);
+}
+
+.search-box::placeholder {
+  color: gray;
+}
+
+.result-container {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  padding: 20px 40px;
+  margin-top: 35px;
+}
